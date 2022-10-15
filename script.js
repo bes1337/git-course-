@@ -1,2 +1,2 @@
 alert('Hello Git')
-consol.log('Teg 2')
+consol.log('mam ')
